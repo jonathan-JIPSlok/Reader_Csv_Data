@@ -160,7 +160,7 @@ while Encerrar == False:
             print("fim")
         elif int(user) == 2:
             pass
-        elif user == "encerrar":
+        elif user.lower() == "encerrar":
             Encerrar = True
         else:
             print("Não entendi! Vamos recomeçar...")
