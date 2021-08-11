@@ -1,6 +1,6 @@
 import csv
 
-Local_Arquivo = "Casos-e-Obitos-Gov_Sp/20210809_Casos-e-obitos-ESP.csv"
+Local_Arquivo = "Casos-e-Obitos-Gov_Sp/Casos_E_Obitos-SP.csv"
 class Data_Separator():
     """
     Created By JIPSlok
