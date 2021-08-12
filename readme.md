@@ -1,6 +1,6 @@
 # Um Leitor de arquivo CSV
 ***
-* O arquivo **main.py** utiliza do modulo Reader_Csv conforme o que o usuario pedir
+* O arquivo **main.py** utiliza do modulo **Reader_Csv** conforme o que o usuario pedir
 
 *O modulo Reader_Csv contem a class Data_Separator*
 **Ela necessita como parametro o arquivo que sera tratado**
